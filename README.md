@@ -12,3 +12,7 @@ After building the container, run the following command:
 ```bash
 docker run --name mercredi_patrick_coding_assignment11 -p 7775:7775 mercredi_patrick_coding_assignment11
 ```
+## Accessing the App
+Once the container is built, you can access the app from the following link:
+
+http://localhost:7775/
